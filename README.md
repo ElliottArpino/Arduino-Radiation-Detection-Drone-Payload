@@ -1,4 +1,4 @@
-# Arduino-Radiation-Detection-Drone-Payload
+# ESP32-Radiation-Detection-Drone-Payload
 
 Autonomous drone payload system for radiation monitoring, built using ESP32, Geiger counter, GPS, SD card logging, and real-time Wi-Fi data transmission.
 
