@@ -4,13 +4,13 @@ Autonomous drone payload system for radiation monitoring, built using ESP32, Gei
 
 ## Subsystems Included
 - **ESP32_code**: Microcontroller code for interfacing Geiger counter, GPS module, SD card, and Wi-Fi.
-[View ESP32 code (.ino)](./ESP32_code.ino)
+  [View ESP32 code (.ino)](./ESP32_code.ino)
 - **live_processing**: MATLAB scripts for real-time data acquisition via ESP32 Wi-Fi.
-[View Live Processing (.m)](./live_processing.m)
+  [View Live Processing (.m)](./live_processing.m)
 - **post_processing**: MATLAB scripts for analyzing logged CSV data to generate radiation heatmaps.
-[View Post Processing (.m)](./post_processing.m)
+  [View Post Processing (.m)](./post_processing.m)
 - **Final_Project_Report**: Full Phase III Systems Engineering report (Toronto Metropolitan University - Fall 2024).
-[View Final Project Report (.pdf)](./Project_Phase_III_Report.pdf)
+  [View Final Project Report (.pdf)](./Project_Phase_III_Report.pdf)
 
 ## Technologies Used
 - **Microcontroller**: ESP32
