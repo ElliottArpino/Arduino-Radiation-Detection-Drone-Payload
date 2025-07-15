@@ -10,7 +10,7 @@ Autonomous drone payload system for radiation monitoring, built using ESP32, Gei
 - **post_processing**: MATLAB scripts for analyzing logged CSV data to generate radiation heatmaps.
 [View Post Processing (.m)](./post_processing.m)
 - **Final_Project_Report**: Full Phase III Systems Engineering report (Toronto Metropolitan University - Fall 2024).
-[View Final Project Report (.pdf)](./final_project_report.pdf)
+[View Final Project Report (.pdf)](./Project_Phase_III_Report.pdf)
 
 ## Technologies Used
 - **Microcontroller**: ESP32
